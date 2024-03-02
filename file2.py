@@ -1,6 +1,6 @@
 
-def my_name():
-	print("Slim shady");
+def my_name(name):
+	print(f"Hi! My name is {name}")
 
 
 
